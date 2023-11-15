@@ -1,4 +1,4 @@
-package hash;
+package hashEquals;
 
 import java.util.HashSet;
 import java.util.Set;

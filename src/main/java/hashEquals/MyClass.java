@@ -1,4 +1,4 @@
-package hash;
+package hashEquals;
 
 public class MyClass {
     private Long id;
